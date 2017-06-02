@@ -4,4 +4,8 @@ module Dummy
 		p 'i do nothing'
 	end
 
+	def from_pm
+		p "Saravanakumar"
+	end
+
 end
