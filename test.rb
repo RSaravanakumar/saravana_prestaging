@@ -8,4 +8,8 @@ module Dummy
 		p "Saravanakumar"
 	end
 
+	def from_pm
+		p "Saravanakumar"
+	end
+
 end
